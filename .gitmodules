@@ -1,0 +1,4 @@
+[submodule "Public"]
+	path = Public
+	url = https://github.com/cmutale-skept/github.io.git
+	branch = main
