@@ -1,6 +1,6 @@
 ---
 title: First Week of March 2025
-date: '2025-04-11'
+date: '2025-03-11'
 summary: Hey Reader! 👋 This is my first blog post, I hope you enjoy this read as much as I enjoyed writing it.
 ---
 
