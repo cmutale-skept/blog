@@ -34,11 +34,11 @@ profiles:
     url: 'mailto:1032239667@pfur.ru'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/chalisyuda?s=11
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/__costachali__/?igsh=MmhxbjFoYWZmZWJo&utm_source=qr
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/cmutale-skept
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
